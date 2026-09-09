@@ -1,6 +1,6 @@
 # Shock Analyzer
 
-Shock Analyzer is a Python-based desktop application for processing
+Shock Analyzer is a Python-based desktop application for processing and keeping a record of 
 shock-tube experimental measurements.
 
 ## Features
