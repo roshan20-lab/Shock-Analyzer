@@ -24,4 +24,4 @@ shock-tube experimental measurements.
 ## Running the application
 
 ```bash
-python ShockTubeAnalyzer.py
+python ShockAnalyzer.py
